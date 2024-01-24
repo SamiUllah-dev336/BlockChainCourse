@@ -4,6 +4,6 @@ This is a crowd sourcing app!
 
 # Getting Started
 
-## requirements
+## Requirements
 
 ## Quickstart
